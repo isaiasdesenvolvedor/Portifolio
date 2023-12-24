@@ -258,6 +258,9 @@ p {
         margin: auto;
         background-size: cover;
     }
+     #cvdroid{
+    color: rgba(192, 163, 0, 0.671);;
+    }
 
     #cvbox {
         text-align: center;
